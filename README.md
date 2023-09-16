@@ -111,7 +111,7 @@ $ yarn ios
 
 You can send how many PR's do you want, I'll be glad to analyse and accept them! And if you have any question about the project...
 
-Email-me: ilove.delicious.pizza@gmail.com
+Email-me: awesomedev08@gmail.com
 
 
 Thank you!
